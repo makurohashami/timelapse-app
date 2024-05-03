@@ -6,6 +6,9 @@
 
 **Timelapse Application** - is an app that helps you create your owns time lapses with only your pc and webcam.
 
+This is test version of application to check libs. This app works only in cmd. Next versions will be created with using
+JavaFX library and will be in separate repository.
+
 ### Quick start
 
 ---
